@@ -2,7 +2,7 @@
   
   Thanks to [HeejoonLee](https://github.com/HeejoonLee), we can easily touch the basic SLAM.
   
-  Details about this docker image is uploaded at our official git page, [Thread Through](https://V-SLAMMERS.github.io).
+  The image is uploaded at our other repository, [slam-docker](https://github.com/V-SLAMMERS/slam-docker). Also, details are uploaded at our official git page, [V-SLAMMERS](https://v-slammers.github.io/tools_and_tips/Docker-image/).
   
   Here, you can find the revision history of Docker images.
 
